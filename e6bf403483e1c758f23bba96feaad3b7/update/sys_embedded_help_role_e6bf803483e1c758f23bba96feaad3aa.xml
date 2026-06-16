@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1971778_techwi_0.end_user" name="x_1971778_techwi_0.end_user">6abf803483e1c758f23bba96feaad38e</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-15 11:50:38</sys_created_on>
+        <sys_id>e6bf803483e1c758f23bba96feaad3aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6abf803483e1c758f23bba96feaad38e</sys_name>
+        <sys_package display_value="Techwitharvind" source="x_1971778_techwi_0">e6bf403483e1c758f23bba96feaad3b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Techwitharvind">e6bf403483e1c758f23bba96feaad3b7</sys_scope>
+        <sys_update_name>sys_embedded_help_role_e6bf803483e1c758f23bba96feaad3aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-15 11:50:38</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
