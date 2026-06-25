@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>description</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-23 05:23:23</sys_created_on>
+        <sys_id>3aa38c1783658bd8f23bba96feaad35e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>description</sys_name>
+        <sys_package display_value="Techwitharvind" source="x_1971778_techwi_0">e6bf403483e1c758f23bba96feaad3b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Techwitharvind">e6bf403483e1c758f23bba96feaad3b7</sys_scope>
+        <sys_update_name>sys_ui_policy_action_3aa38c1783658bd8f23bba96feaad35e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-23 05:23:23</sys_updated_on>
+        <table>x_1971778_techwi_0_device_request</table>
+        <ui_policy display_value="Mandatory Business Justification field">1c63bbf6836987d8f23bba96feaad389</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=3aa38c1783658bd8f23bba96feaad35e"/>
+</record_update>

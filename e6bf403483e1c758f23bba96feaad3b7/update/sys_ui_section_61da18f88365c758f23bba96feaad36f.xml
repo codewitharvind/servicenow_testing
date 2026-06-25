@@ -4,55 +4,55 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-06-15 12:39:10</sys_created_on>
-            <sys_id>e5da18f88365c758f23bba96feaad371</sys_id>
+            <sys_created_on>2026-06-18 12:29:54</sys_created_on>
+            <sys_id>4375372583214798f23bba96feaad3a7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1971778_techwi_0_device_request" sys_domain="global" view="Default view">61da18f88365c758f23bba96feaad36f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-06-15 12:39:10</sys_updated_on>
+            <sys_updated_on>2026-06-18 12:29:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>assigned_to</element>
+            <element>device_name</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-06-15 12:39:10</sys_created_on>
-            <sys_id>edda18f88365c758f23bba96feaad372</sys_id>
+            <sys_created_on>2026-06-18 12:29:54</sys_created_on>
+            <sys_id>cf75372583214798f23bba96feaad3a7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1971778_techwi_0_device_request" sys_domain="global" view="Default view">61da18f88365c758f23bba96feaad36f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-06-15 12:39:10</sys_updated_on>
+            <sys_updated_on>2026-06-18 12:29:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>cmdb_ci</element>
+            <element>requestor_name</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-06-15 12:39:10</sys_created_on>
-            <sys_id>e1da98f88365c758f23bba96feaad37e</sys_id>
+            <sys_created_on>2026-06-18 12:29:54</sys_created_on>
+            <sys_id>4f75372583214798f23bba96feaad3a8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1971778_techwi_0_device_request" sys_domain="global" view="Default view">61da18f88365c758f23bba96feaad36f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-06-15 12:39:10</sys_updated_on>
+            <sys_updated_on>2026-06-18 12:29:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>active</element>
+            <element>company</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-06-15 12:39:10</sys_created_on>
-            <sys_id>edda98f88365c758f23bba96feaad37f</sys_id>
+            <sys_created_on>2026-06-18 12:29:54</sys_created_on>
+            <sys_id>cb75372583214798f23bba96feaad3a9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1971778_techwi_0_device_request" sys_domain="global" view="Default view">61da18f88365c758f23bba96feaad36f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-06-15 12:39:10</sys_updated_on>
+            <sys_updated_on>2026-06-18 12:29:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,55 +60,55 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-06-15 12:39:10</sys_created_on>
-            <sys_id>61da98f88365c758f23bba96feaad37f</sys_id>
+            <sys_created_on>2026-06-18 12:29:54</sys_created_on>
+            <sys_id>4b75372583214798f23bba96feaad3aa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1971778_techwi_0_device_request" sys_domain="global" view="Default view">61da18f88365c758f23bba96feaad36f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-06-15 12:39:10</sys_updated_on>
+            <sys_updated_on>2026-06-18 12:29:54</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>priority</element>
+            <element>quantity</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-06-15 12:39:10</sys_created_on>
-            <sys_id>6dda98f88365c758f23bba96feaad380</sys_id>
+            <sys_created_on>2026-06-18 12:29:54</sys_created_on>
+            <sys_id>c775372583214798f23bba96feaad3ab</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1971778_techwi_0_device_request" sys_domain="global" view="Default view">61da18f88365c758f23bba96feaad36f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-06-15 12:39:10</sys_updated_on>
+            <sys_updated_on>2026-06-18 12:29:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>state</element>
+            <element>stat0</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-06-15 12:39:10</sys_created_on>
-            <sys_id>e9da98f88365c758f23bba96feaad381</sys_id>
+            <sys_created_on>2026-06-18 12:29:54</sys_created_on>
+            <sys_id>4775372583214798f23bba96feaad3ac</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1971778_techwi_0_device_request" sys_domain="global" view="Default view">61da18f88365c758f23bba96feaad36f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-06-15 12:39:10</sys_updated_on>
+            <sys_updated_on>2026-06-18 12:29:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>parent</element>
+            <element>delivery_date</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-06-15 12:39:10</sys_created_on>
-            <sys_id>69da98f88365c758f23bba96feaad382</sys_id>
+            <sys_created_on>2026-06-18 12:29:54</sys_created_on>
+            <sys_id>c375372583214798f23bba96feaad3ad</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1971778_techwi_0_device_request" sys_domain="global" view="Default view">61da18f88365c758f23bba96feaad36f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-06-15 12:39:10</sys_updated_on>
+            <sys_updated_on>2026-06-18 12:29:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,55 +116,27 @@
             <element>.end_split</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-06-15 12:39:10</sys_created_on>
-            <sys_id>e5da98f88365c758f23bba96feaad383</sys_id>
+            <sys_created_on>2026-06-18 12:29:54</sys_created_on>
+            <sys_id>4375372583214798f23bba96feaad3ae</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1971778_techwi_0_device_request" sys_domain="global" view="Default view">61da18f88365c758f23bba96feaad36f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-06-15 12:39:10</sys_updated_on>
+            <sys_updated_on>2026-06-18 12:29:54</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>short_description</element>
+            <element>description</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-06-15 12:39:10</sys_created_on>
-            <sys_id>65da98f88365c758f23bba96feaad384</sys_id>
+            <sys_created_on>2026-06-18 12:29:54</sys_created_on>
+            <sys_id>cf75372583214798f23bba96feaad3ae</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1971778_techwi_0_device_request" sys_domain="global" view="Default view">61da18f88365c758f23bba96feaad36f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-06-15 12:39:10</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>description</element>
-            <position>10</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-06-15 12:39:10</sys_created_on>
-            <sys_id>e1da98f88365c758f23bba96feaad385</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1971778_techwi_0_device_request" sys_domain="global" view="Default view">61da18f88365c758f23bba96feaad36f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-06-15 12:39:10</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>work_notes</element>
-            <position>11</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-06-15 12:39:10</sys_created_on>
-            <sys_id>61da98f88365c758f23bba96feaad386</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1971778_techwi_0_device_request" sys_domain="global" view="Default view">61da18f88365c758f23bba96feaad36f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-06-15 12:39:10</sys_updated_on>
+            <sys_updated_on>2026-06-18 12:29:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

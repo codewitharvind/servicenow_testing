@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="2cda58f88365c758f23bba96feaad344" extends="task" label="Device Request" max_length="40" name="x_1971778_techwi_0_device_request" type="collection">
+        <element label="Delivery Date" max_length="40" name="delivery_date" type="glide_date"/>
+        <element label="Device Description" max_length="40" name="device_description" read_only="true" read_only_option="display_read_only" type="string"/>
+        <element label="Waranty Expiration" max_length="40" name="waranty_expiration" read_only="true" read_only_option="display_read_only" type="glide_date"/>
+        <element choice="1" label="State" max_length="255" name="state_device" type="choice">
+            <choice/>
+        </element>
+        <element label="Requestor Name" mandatory="true" max_length="32" name="requestor_name" reference="sys_user" type="reference"/>
+        <element label="Quantity" mandatory="true" max_length="40" name="quantity" type="integer"/>
+        <element label="Device Name" mandatory="true" max_length="32" name="device_name" reference="x_1971778_techwi_0_ai_devices" type="reference"/>
         <element label="Demo" max_length="40" name="demo" type="string"/>
+        <element choice="1" label="State" max_length="40" name="stat0" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Delivered" sequence="0" value="delivered"/>
+                <element inactive_on_update="false" label="Cancelled" sequence="1" value="cancelled"/>
+            </choice>
+        </element>
+        <element label="Model" max_length="40" name="model" read_only="true" read_only_option="display_read_only" type="string"/>
+        <element label="Price" max_length="40" name="price" read_only="true" read_only_option="display_read_only" type="integer"/>
     </element>
 </database>

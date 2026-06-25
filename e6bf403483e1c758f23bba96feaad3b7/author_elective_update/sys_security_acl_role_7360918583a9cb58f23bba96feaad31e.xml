@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-16 11:11:50</sys_created_on>
+        <sys_id>7360918583a9cb58f23bba96feaad31e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1971778_techwi_0_ai_devices.x_1971778_techwi_0.device_management</sys_name>
+        <sys_package display_value="Techwitharvind" source="x_1971778_techwi_0">e6bf403483e1c758f23bba96feaad3b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Techwitharvind">e6bf403483e1c758f23bba96feaad3b7</sys_scope>
+        <sys_security_acl display_value="x_1971778_techwi_0_ai_devices">2f60518583a9cb58f23bba96feaad3e6</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_7360918583a9cb58f23bba96feaad31e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-16 11:11:50</sys_updated_on>
+        <sys_user_role display_value="x_1971778_techwi_0.device_management" name="x_1971778_techwi_0.device_management">32bf803483e1c758f23bba96feaad3ce</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Techwitharvind">e6bf403483e1c758f23bba96feaad3b7</application>
+        <file_path/>
+        <instance_id>a518fdf7dbc6825402022a5913961934</instance_id>
+        <instance_name>dev270848</instance_name>
+        <name>sys_security_acl_role_7360918583a9cb58f23bba96feaad31e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-16 11:11:50</sys_created_on><sys_id>7360918583a9cb58f23bba96feaad31e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1971778_techwi_0_ai_devices.x_1971778_techwi_0.device_management</sys_name><sys_package display_value="Techwitharvind" source="x_1971778_techwi_0">e6bf403483e1c758f23bba96feaad3b7</sys_package><sys_policy/><sys_scope display_value="Techwitharvind">e6bf403483e1c758f23bba96feaad3b7</sys_scope><sys_security_acl display_value="x_1971778_techwi_0_ai_devices">2f60518583a9cb58f23bba96feaad3e6</sys_security_acl><sys_update_name>sys_security_acl_role_7360918583a9cb58f23bba96feaad31e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-16 11:11:50</sys_updated_on><sys_user_role display_value="x_1971778_techwi_0.device_management" name="x_1971778_techwi_0.device_management">32bf803483e1c758f23bba96feaad3ce</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1618151233</payload_hash>
+        <record_name>x_1971778_techwi_0_ai_devices.x_1971778_techwi_0.device_management</record_name>
+        <reverted_from/>
+        <source>64935c41832d8b58f23bba96feaad340</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-16 11:11:50</sys_created_on>
+        <sys_id>7760918583a9cb58f23bba96feaad35f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19ed021671b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-16 11:11:50</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>37609185e7a9cb586a7da0ca6b0a5d5e</update_guid>
+        <update_guid_history>37609185e7a9cb586a7da0ca6b0a5d5e:-1618151233</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1971778_techwi_0_ai_devices.x_1971778_techwi_0.device_management">413559c583e9cb58f23bba96feaad33b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-16 11:32:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>73e22cf243fe4a9c9f21de731c45d1f9</sys_id>
+        <sys_metadata>7360918583a9cb58f23bba96feaad31e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1971778_techwi_0_ai_devices.x_1971778_techwi_0.device_management</sys_name>
+        <sys_package display_value="Techwitharvind" source="x_1971778_techwi_0">e6bf403483e1c758f23bba96feaad3b7</sys_package>
+        <sys_parent display_value="">2f60518583a9cb58f23bba96feaad3e6</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Techwitharvind">e6bf403483e1c758f23bba96feaad3b7</sys_scope>
+        <sys_scope_delete display_value="">7f2516d7e2d34d24a89c58ebfe513664</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_7360918583a9cb58f23bba96feaad31e</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_7360918583a9cb58f23bba96feaad31e">7760918583a9cb58f23bba96feaad35f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-16 11:32:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
